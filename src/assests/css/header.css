@@ -1,0 +1,27 @@
+#header{
+    margin-left: 4%;
+    margin-top: 11px;
+    width:90%;
+    height: 65px;
+    background-color: rgba(240, 222, 222, 1);
+    border-radius: 20px;
+    display: flex;
+}
+
+#header-logo{
+    margin-left: 20px;
+    height:55px;
+    width:55px;
+}
+#header-title{
+    margin-left: 12px;
+    font-size: 23px;
+    margin-top: 13px;
+}
+#header-content{
+    margin-left: 20%;
+    margin-top: 20px;
+}
+#header-link{
+    margin-left: 80%;
+}
